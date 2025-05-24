@@ -75,7 +75,3 @@ https://www.linkedin.com/feed/update/urn:li:activity:7327599840098451456/
 
 Omkar Patkar
  - Artificial Intelligence & Data Science Engineering student at Konkan Gyanpeeth College of Engineering
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` file for details.
